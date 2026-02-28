@@ -3,11 +3,12 @@
 A complete, production-ready lightweight internal HR tool for managing employees and tracking daily attendance. Built as a single-admin system specifically focusing on clean, working core HR operations.
 
 ## 🔗 Live Links
-- **Live URL**: [Pending Deployment](#) 
+- **Live Frontend**: [https://internal-hr-tool-quess-assessment-1.vercel.app](https://internal-hr-tool-quess-assessment-1.vercel.app)
+- **Live Backend (Render API Docs)**: [https://internal-hr-tool-quess-assessment.onrender.com/docs](https://internal-hr-tool-quess-assessment.onrender.com/docs)
 - **GitHub Repository**: [https://github.com/Prince364133/internal-HR-tool-Quess-Assessment](https://github.com/Prince364133/internal-HR-tool-Quess-Assessment)
 
 ## 🛠 Tech Stack
-
+ 
 | Component | Technology | Description |
 |---|---|---|
 | **Frontend** | React, Vite, Tailwind CSS | High performance UI built with composable components. HeadlessUI and Lucide icons used. |
