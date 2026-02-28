@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+hrms.db
